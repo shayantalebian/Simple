@@ -1,0 +1,4 @@
+function shayan()
+{
+    alert(Date())
+}
